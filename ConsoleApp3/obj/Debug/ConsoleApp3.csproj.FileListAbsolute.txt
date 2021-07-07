@@ -1,0 +1,11 @@
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\TA-Lib-Core.dll
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\phu.nv\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
